@@ -4,12 +4,12 @@ background: https://cdn.jsdelivr.net/gh/slidevjs/slidev-covers@main/static/XdcRf
 mdc: true
 colorSchema: light
 canvasWidth: 784
-title: VSCode 与 C 语言开发环境
+title: VS Code 与 C 语言开发环境
 ---
 
 每周小聚：{.text-3xl}
 
-# [VSCode 与 C 语言开发环境]{.text-5xl}
+# [VS Code 与 C 语言开发环境]{.text-5xl}
 
 <a fixed right-6 bottom-4 flex items-center gap-2 font-serif op-80 class="border-none! color-white!" href="https://lug.ustc.edu.cn" target="_blank" rel="noopener noreferrer">
 <img src="./assets/1760713063459.png" h-8 />
@@ -22,9 +22,9 @@ USTCLUG
 
 <div flex flex-col gap-4 text-2xl mt-10 text-center>
 
-Part 1: VSCode 的基础概念与使用技巧
+Part 1: VS Code 的基础概念与使用技巧
 
-Part 2: 在 VSCode 中配置 C 语言开发环境
+Part 2: 在 VS Code 中配置 C 语言开发环境
 
 Part 3: 自由讨论，解决配置过程中碰到的各种问题
 
@@ -571,7 +571,7 @@ Part 3
 <div text-base mt-12 op-80> 
 在线访问幻灯片：
 <a href="https://kermanx.com/lug-vscode" target="_blank" rel="noopener noreferrer" class="text-white-400! border-none!">
-https://kermanx.com/lug-vscode
+https://kermanx.com/slides-vscode-c
 </a>
 </div>
 
