@@ -79,7 +79,7 @@ A -->|独立模块| E[Monaco Editor]
 
 ```mermaid{scale:0.8}
 graph TD
-A[Visual Studio Code]
+A[Visual Studio]
 ```
 
 </div>
@@ -559,7 +559,7 @@ int main() {
 
 <div />
 
-- C++ 环境配置、其他系统配置可参考 **https://blog.iw17.cc/vscode-c-cpp/**
+- C++ 环境配置、其他系统配置可参考 **https://blog.iw17.net/vscode-c-cpp/**
 
 - 该文件夹下可以放置多个 C/C++ 源文件，按下 <kbd>F5</kbd> 时会编译并运行当前打开的文件
 
