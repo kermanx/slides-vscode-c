@@ -397,7 +397,7 @@ hide: true
 1. 打开 [https://winlibs.com/](https://winlibs.com/)，往下滑动，找到 “Release versions” 部分
 
 2. 下载适合你系统的最新版本的压缩包（一般来选择 Win64, Zip archive）
-  <br>（如遇到网络问题可以 <a :href="BASE_URL + 'gcc.zip'">点击这里</a> 下载）
+  <br>（如遇到网络问题可以 <a :href="BASE_URL + 'gcc.zip'" target="_blank">点击这里</a> 下载）
 
 3. 右键点击压缩包，点击 “全部解压缩”，解压到你想放置的目录（例如 `C:\gcc`）
 
