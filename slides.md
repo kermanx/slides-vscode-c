@@ -396,7 +396,7 @@ hide: true
 
 1. 打开 [https://winlibs.com/](https://winlibs.com/)，往下滑动，找到 “Release versions” 部分
 
-2. 下载适合你系统的最新版本的压缩包（一般来说是 Win64, Zip archive，[点击这里](https://github.com/brechtsanders/winlibs_mingw/releases/download/15.2.0posix-13.0.0-ucrt-r2/winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64ucrt-13.0.0-r2.zip)）
+2. 下载适合你系统的最新版本的压缩包（一般来选择 Win64, Zip archive）<br>（如遇到网络问题可以 [点击这里](/gcc.zip) 下载）
 
 3. 右键点击压缩包，点击 “全部解压缩”，解压到你想放置的目录（例如 `C:\gcc`）
 
