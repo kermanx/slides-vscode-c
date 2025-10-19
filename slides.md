@@ -394,12 +394,13 @@ hide: true
 
 <div h-4 />
 
-1. 打开 [https://winlibs.com/](https://winlibs.com/)，往下滑动，找到 “Release versions” 部分
+1. 一般来说，可以 <a :href="BASE_URL + 'gcc.zip'" target="_blank">点击这里</a> 下载 64 位版的 GCC 压缩包
 
-2. 下载适合你系统的最新版本的压缩包（一般来选择 Win64, Zip archive）
-  <br>（如遇到网络问题可以 <a :href="BASE_URL + 'gcc.zip'" target="_blank">点击这里</a> 下载）
+    也可以打开 [https://winlibs.com/](https://winlibs.com/)，往下滑动，找到 “Release versions” 部分，下载适合你系统的最新版本的压缩包。
 
-3. 右键点击压缩包，点击 “全部解压缩”，解压到你想放置的目录（例如 `C:\gcc`）
+<div h-2 />
+
+2. 在文件资源管理器中，右键点击压缩包，点击 “全部解压缩”，解压到你想放置的目录（例如 `C:\gcc`）
 
 <script setup>
 const BASE_URL = import.meta.env.BASE_URL
